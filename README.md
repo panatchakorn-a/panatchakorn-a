@@ -1,6 +1,6 @@
 ### Hi, my name is Panatchakorn Anantaprayoon 👋
-- 🎓 I’m a 4th year Computer Science student at Tokyo Institute of Technology.
-- 🔭 Current research field: NLP
+- 🎓 I’m a Computer Science student at Tokyo Institute of Technology.
+- 🔭 Current research field: Natural Language Processing, Fairness evaluation of language models
 - 👀 Current interests: Machine Learning, Data Science, Full-stack development, MLOps
 
 
